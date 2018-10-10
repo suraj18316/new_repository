@@ -1,2 +1,2 @@
 # new_repository
-pvc tset
+pvc test
